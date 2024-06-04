@@ -73,7 +73,7 @@ This is a demo for IT Software Development Course
 
     TEST
 
-    Learn Test Automation
+    Learn Test Automation - using JEST
     Different types of testing (Unit, Integration, End-to-End, Performance)
     Write unit and integration tests
 
