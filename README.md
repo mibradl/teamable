@@ -65,7 +65,13 @@ This is a demo for IT Software Development Course
     
 ### What are databases?
     
-    Different types of databases (Key Value - Redis; Wide Column: schemaless, large, unstructured - Cassandra; Document/Collection: primary db, for apps, schemaless - MongoDB, DynamoDB, CouchDB; Relational - MySQL, PostgresSQL, Oracle: structured, schema, query language, for faster write to DB, ACID; Graph - tables and rows; Search, ElasticSearch, SOLR: Index Search
+    Different types of databases 
+    -1.Key Value - Redis; Wide Column: schemaless, large, unstructured - Cassandra;
+    -2.Wide Column - schemaless, large unstructured, 
+    -3.Document/Collection: primary db, for apps, schemaless - MongoDB, DynamoDB, CouchDB; 
+    -4.Relational - MySQL, PostgresSQL, Oracle: structured, schema, query language, for faster write, ACID; 
+    -5.Graph - tables and rows; 
+    -6.Search, ElasticSearch, SOLR: Index Search
     SQL vs NoSQL databases
     Implement MongoDB
     Install and Configure MongoDB
