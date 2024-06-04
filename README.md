@@ -31,7 +31,7 @@ This is a demo for IT Software Development Course
 
 ### Development
 
-    Frontend
+### Frontend
 
     Programming Basics with JavaScript
     HTML and CSS
