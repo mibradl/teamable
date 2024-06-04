@@ -49,7 +49,7 @@ This is a demo for IT Software Development Course
 ### Backend
 
     Learn why frontend and backend is needed for web apps
-    Understand how data exchange between fronend and backend
+    Understand how data exchange between frontend and backend
     Create Node.js and create example web server
     Learn about libraries and how to use them
     Package repositories and NPM
