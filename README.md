@@ -15,13 +15,13 @@ This is a demo for IT Software Development Course
 
 ## Phases of the Software Development Life Cycle - Practice Project - Teamable
 
-    Planning
+### Planning
 
     Setting up Jira Board for scrum project
     Concepts of Agile and Scrum
     Plan and create first sprint for Teamable application
 
-    Agile - Jira
+### Agile - Jira
 
     Epics, Features, User Stories, 
     Updating Jira backlog and boards
@@ -29,7 +29,7 @@ This is a demo for IT Software Development Course
     Identifying roles (Scrum Master, Product Owner, Admins, DB & SysAdmins, Software Eng, Developers)
     Closing Sprints & Retrospective
 
-    Development
+### Development
 
     Frontend
 
@@ -46,7 +46,7 @@ This is a demo for IT Software Development Course
     Replace vanilla framework of Teamable App with Vue.js
     Software Versioning and Release 
 
-    Backend
+### Backend
 
     Learn why frontend and backend is needed for web apps
     Understand how data exchange between fronend and backend
@@ -60,10 +60,11 @@ This is a demo for IT Software Development Course
     URLs
     Implement Backend for Teamable app
 
-    Databases
+### Databases
     
     
-    What are databases?
+### What are databases?
+    
     Different types of databases (Key Value - Redis; Wide Column: schemaless, large, unstructured - Cassandra; Document/Collection: primary db, for apps, schemaless - MongoDB, DynamoDB, CouchDB; Relational - MySQL, PostgresSQL, Oracle: structured, schema, query language, for faster write to DB, ACID; Graph - tables and rows; Search, ElasticSearch, SOLR: Index Search
     SQL vs NoSQL databases
     Implement MongoDB
@@ -71,14 +72,14 @@ This is a demo for IT Software Development Course
     Connect backend to MongoDB to persist data
     Fully functioning application with Frontend, Backend and Database
 
-    TEST
+### TEST
 
     Learn Test Automation - using JEST
     Different types of testing (Unit, Integration, End-to-End, Performance)
     Write unit and integration tests
 
 
-    RELEASE
+### RELEASE
 
     Application Release
 
@@ -86,14 +87,14 @@ This is a demo for IT Software Development Course
     Artifacts and artifact repositories
     Run package application locally
 
-    Server Basics
+### Server Basics
 
     Server vs Client
     Operating Systems
     Cloud Platforms
     Creating Virtual Machines
 
-    Operating System Basics
+### Operating System Basics
 
     Command Line Interface (CLI)
     OS Package Managers
@@ -102,44 +103,54 @@ This is a demo for IT Software Development Course
     SSH into remote server on MacOS & Windows
     Comparisons between MacOS, Windows and Windows
 
-    Prepare Deployment server for Teamable app
+### Prepare Deployment server for Teamable app
 
     Create Linux (Ubuntu) server on cloud platform
     How to connect to it using SSH
     Install software
 
-    Deploy Teamable app on the server
+### Deploy Teamable app on the server
 
     Run Teamable app on the configured server
     How to control access with Firewall
 
-    Deployment Environments
+### Deployment Environments
 
     Promoting change to Testing, Staging & Production
     Purpose of each environment
 
     Software Development continuous life cycle
     
-    Complete 1st Sprint
+### Complete 1st Sprint
     
-    Plan 2nd Sprint
+### Plan 2nd Sprint
     
     * Secure database
     * Configure access in Node.js application
-    * Learn importance of Environment variables
+    * Learn importance of Environment variables and security best practices
     * Configure app for multiple environments
 
-    Develop App V2
+### Develop App V2
 
-    Release 2nd version of Teamable
+### Release 2nd version of Teamable
 
-    Collaborate on Code
+### Collaborate on Code
 
-    Version Control Systems (GITHUB & GITLAB)
+### Version Control Systems (GITHUB & GITLAB)
     
     What is a version control system and how is it useful?
     Learn Git concepts
     Use Git in practice
+    Setup Remote Repository
+    Clone Remote Repo and Initialize Local Repo
+    Working with GIT Commands (.gitignore file)
+    Git workflow after setup
+    Pull changes
+    Merge conflicts
+    Commit message and History of commits
+    Concept of branches
+    Merge requests
+    Deleting branches
     
     
 
